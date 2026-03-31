@@ -1,17 +1,15 @@
-
-# 📌 C++ Control Structures Practice Programs
+# 📌 C++ If-Else Practice Programs
 
 ## 📖 Description
 
-This repository contains a collection of basic C++ programs focused on fundamental control structures such as conditional statements and loops. It is designed to strengthen problem-solving skills and build a strong foundation in programming logic using C++.
+This repository contains a collection of C++ programs that focus on the use of conditional statements, specifically if, if-else, and nested if-else constructs. The purpose of this project is to build a strong understanding of decision-making logic in programming and improve problem-solving skills using C++.
 
 ## ⚙️ Features
 
-* Programs based on **if, if-else, and nested conditions**
-* Implementation of **loops (for, while, do-while)**
-* Covers common logic-building problems
-* Beginner-friendly and easy to understand
-* Well-structured code for learning and practice
+* Implementation of **if, if-else, and nested if-else statements**
+* Programs based on decision-making problems
+* Covers basic logical conditions and comparisons
+* Simple and beginner-friendly code structure
 
 ## 🛠️ Technologies Used
 
@@ -20,13 +18,13 @@ This repository contains a collection of basic C++ programs focused on fundament
 
 ## ▶️ How to Run
 
-1. Install any C++ compiler (like GCC)
-2. Compile the program:
+1. Install a C++ compiler (GCC or any IDE)
+2. Compile the code:
 
    ```bash
    g++ filename.cpp -o output
    ```
-3. Run the executable:
+3. Run the program:
 
    ```bash
    ./output
@@ -34,9 +32,8 @@ This repository contains a collection of basic C++ programs focused on fundament
 
 ## 🎯 Purpose
 
-The main objective of this repository is to practice and understand the core concepts of control flow in C++, which are essential for solving real-world programming problems and preparing for coding interviews.
+This repository is created to practice and understand conditional statements in C++, which are essential for controlling the flow of a program and solving logical problems efficiently.
 
 ## 📌 Author
 
 Yashika Rajput
-
